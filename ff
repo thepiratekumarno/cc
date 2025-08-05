@@ -12,7 +12,6 @@ GOOGLE_CLIENT_SECRET=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
 
 MONGO_URI=mongodb+srv://hmaurya416:harsh1234@cluster1.2nqczem.mongodb.net/sql_assistant_db?retryWrites=true&w=majority
 
-SMTP_SERVER=smtp.zoho.in
 SME_URL=https://secretguardian.onrender.com
 
 #GITHUB_APP_ID=1716653
